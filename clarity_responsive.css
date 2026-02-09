@@ -1,0 +1,37 @@
+@media only screen and (max-width:480px){
+    .digital-text h1{
+        font-size: 20px;
+    }
+    .digital{
+    margin-top: 60px;
+    }
+    .innovation h1{
+        font-size: 20px;
+    }
+    .service .card .icons{
+        height: 50px;
+        width: 50px;
+    }
+    .service .card .icons i{
+        font-size: 25px;
+    }
+    .service .card1 h2{
+        font-size: 20px;
+    }
+    .icon-circle{
+        height: 30px;
+        width: 50px;
+    }
+    .icon-circle i{
+        font-size: 15px;
+    }
+    .leading-brand h2{
+        font-size: 20px;
+    }
+    .team h2{
+        font-size: 20px;
+    }
+    #contact form{
+        width: 100%;
+    }
+}
